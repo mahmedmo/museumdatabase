@@ -1,0 +1,10 @@
+('Bill Gates', '2010', '2021', 'USA', 'Post-Modern', 'Coding', 'Tech Guy');
+('Elon Musk', '2008', '2023', 'USA', 'Futurist', 'Innovation', 'Space Enthusiast');
+('Jeff Bezos', '1994', '2021', 'USA', 'Visionary', 'E-commerce', 'Space Ventures');
+('Tim Cook', '2011', '2023', 'USA', 'Leadership', 'Tech Industry', 'Apple CEO');
+('Satya Nadella', '2014', '2023', 'USA', 'Transformation', 'Cloud Computing', 'Microsoft CEO');
+('Mark Zuckerberg', '2004', '2023', 'USA', 'Social Media', 'Innovation', 'Meta CEO');
+('Larry Page', '1998', '2019', 'USA', 'Search Engine', 'Technology', 'Google Co-founder');
+('Sundar Pichai', '2004', '2023', 'USA', 'Innovation', 'Tech Leadership', 'Alphabet CEO');
+('Jack Dorsey', '2006', '2021', 'USA', 'Social Media', 'Entrepreneurship', 'Twitter Co-founder');
+('Sheryl Sandberg', '2008', '2021', 'USA', 'Empowerment', 'Leadership', 'Facebook COO');
